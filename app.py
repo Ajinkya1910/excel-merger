@@ -337,9 +337,8 @@ with col1:
                     import time
                     time.sleep(0.1)
             
-            # Read file (cached) - wrapped in spinner to suppress cache message
-            with st.spinner():
-                df1, error1 = load_excel_file(uploaded_file1.getvalue(), uploaded_file1.name)
+            # Read file (cached)
+            df1, error1 = load_excel_file(uploaded_file1.getvalue(), uploaded_file1.name)
             
             # Complete progress for large files
             if file_size_mb > 10:
@@ -402,9 +401,8 @@ with col2:
                     import time
                     time.sleep(0.1)
             
-            # Read file (cached) - wrapped in spinner to suppress cache message
-            with st.spinner():
-                df2, error2 = load_excel_file(uploaded_file2.getvalue(), uploaded_file2.name)
+            # Read file (cached)
+            df2, error2 = load_excel_file(uploaded_file2.getvalue(), uploaded_file2.name)
             
             # Complete progress for large files
             if file_size_mb > 10:
