@@ -256,7 +256,7 @@ with header_col1:
     st.markdown("**Merge multiple Excel files without data loss**")
 
 with header_col2:
-    if st.button("🔄 Reset", use_container_width=True, help="Clear all files and start fresh"):
+    if st.button("🔄 Reset Files", use_container_width=True, help="Clear all files and start fresh"):
         # Clear all data from session state
         st.session_state.file1 = None
         st.session_state.file2 = None
