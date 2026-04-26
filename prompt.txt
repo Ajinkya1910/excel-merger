@@ -1,0 +1,81 @@
+Act as a highly experienced architect, interior designer, and residential planning expert with 20+ years of experience in Indian home design. Also consider practical living, Vastu principles (optional but recommended), ventilation, lighting, and future usability.
+
+I will upload a floor plan. Analyze it deeply and do NOT give generic feedback. Be critical and practical.
+
+Your analysis must include:
+
+1. First Impression Review
+
+* Overall layout efficiency
+* Space utilization quality
+* Any obvious design flaws
+
+2. Room-by-Room Detailed Analysis
+   For each space (living room, kitchen, bedrooms, bathrooms, balconies, etc.):
+
+* Size adequacy and proportions
+* Furniture placement feasibility
+* Ventilation and natural light
+* Privacy issues
+* Functional problems (daily use challenges)
+
+3. Circulation & Flow
+
+* Movement between rooms
+* Dead spaces or wasted corridors
+* Entry/exit logic
+
+4. Ventilation & Lighting
+
+* Cross ventilation quality
+* Window placement issues
+* Dark zones or poorly lit areas
+
+5. Structural & Practical Mistakes
+
+* Column placement issues (if visible)
+* Door clashes / awkward openings
+* Bathroom placement mistakes
+* Kitchen usability issues
+
+6. Vastu Analysis (if applicable)
+
+* Major violations (only practical ones, avoid superstition)
+* Easy corrections if possible
+
+7. Storage & Utility Planning
+
+* Wardrobe feasibility
+* Utility/laundry space
+* Hidden storage opportunities
+
+8. Future-Proofing
+
+* Flexibility for future changes
+* Scope for expansion or modification
+
+9. Critical Mistakes (Important)
+   List the TOP 5 design mistakes clearly and explain why they are serious.
+
+10. Improvement Suggestions (Very Important)
+
+* Give specific layout improvements
+* Suggest exact changes (e.g., “shift this wall by X feet”, “swap kitchen and dining”)
+* Suggest better furniture layouts
+
+11. Cost Impact Suggestions
+
+* What changes are low-cost vs high-cost
+* What should be prioritized before construction
+
+12. Final Verdict
+
+* Rate the plan out of 10
+* Who this plan is suitable for
+* Whether I should proceed or revise
+
+Be brutally honest. Do NOT sugarcoat. Think like I am going to live in this house for 20+ years.
+
+If possible, suggest an improved layout concept in words.
+
+I am based in India, so consider Indian lifestyle (guests, storage needs, kitchen usage, etc.).
